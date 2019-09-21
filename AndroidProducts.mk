@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_maple_dsds.mk
+    $(LOCAL_DIR)/aosp_maple_dsds.mk
