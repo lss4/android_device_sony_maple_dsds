@@ -16,7 +16,7 @@
 ### INHERIT FROM MAPLE-COMMON
 include device/sony/maple-common/BoardConfig-common.mk
 
-DEVICE_PATH := device/sony/maple_dsds
+DEVICE_PATH := device/sony/maple
 
 # Init
 TARGET_LIBINIT_YOSHINO_DEFINES_FILE := $(DEVICE_PATH)/init_maple/init_maple.cpp
