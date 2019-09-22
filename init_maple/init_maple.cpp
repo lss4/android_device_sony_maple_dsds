@@ -57,6 +57,6 @@ void target_load_properties()
     property_override("ro.telephony.default_network", "9,0");
     property_override("persist.vendor.radio.block_allow_data", "0");
     property_override_dual("ro.product.model", "ro.vendor.product.model", "G8142");
-    property_override_dual("ro.product.name", "ro.vendor.product.name", "maple_dsds");
-    property_override_dual("ro.product.device", "ro.vendor.product.device", "maple_dsds");
+    property_override_dual("ro.product.name", "ro.vendor.product.name", "maple");
+    property_override_dual("ro.product.device", "ro.vendor.product.device", "maple");
 }
