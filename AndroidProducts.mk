@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_maple.mk
+    $(LOCAL_DIR)/havoc_maple.mk
